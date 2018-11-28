@@ -1,0 +1,6 @@
+Egor   100000
+Tascher  5000
+Developer 10000
+loooser  12
+Olenek 1210
+Anton 660
